@@ -1,0 +1,168 @@
+[
+  {
+    "projectId": "1",
+    "ProjectName": "Skyline Industries stand at Industry Showcase 2023",
+    "StartDate": "2023-02-18",
+    "EndDate": "2023-02-28",
+    "Status": "Design Submitted",
+    "Venue": "Innovation Hub D",
+    "CompanyLogoURL": "/images/skyline_logo.png",
+    "DesignImageURL": "/images/skyline_design.png"
+  },
+  {
+    "projectId": "2",
+    "ProjectName": "TechCorp stand at Industry Showcase 2023",
+    "StartDate": "2023-11-11",
+    "EndDate": "2023-11-15",
+    "Status": "Project Confirmed",
+    "Venue": "Convention Center A",
+    "CompanyLogoURL": "/images/techcorp_logo.png",
+    "DesignImageURL": "/images/techcorp_design.png"
+  },
+  {
+    "projectId": "3",
+    "ProjectName": "TechCorp stand at Smart Solutions Fair 2022",
+    "StartDate": "2022-10-11",
+    "EndDate": "2022-10-14",
+    "Status": "Pending",
+    "Venue": "Tech Park E",
+    "CompanyLogoURL": "/images/techcorp_logo.png",
+    "DesignImageURL": "/images/techcorp_design.png"
+  },
+  {
+    "projectId": "4",
+    "ProjectName": "Vertex Technologies stand at Corporate Trade Show 2024",
+    "StartDate": "2024-10-10",
+    "EndDate": "2024-10-19",
+    "Status": "Project Confirmed",
+    "Venue": "Innovation Hub D"
+  },
+  {
+    "projectId": "5",
+    "ProjectName": "Pioneer Group stand at Corporate Trade Show 2024",
+    "StartDate": "2024-12-26",
+    "EndDate": "2024-12-31",
+    "Status": "Design Submitted",
+    "Venue": "Trade Fair Arena C"
+  },
+  {
+    "projectId": "6",
+    "ProjectName": "Vertex Technologies stand at Enterprise Conference 2021",
+    "StartDate": "2021-09-14",
+    "EndDate": "2021-09-19",
+    "Status": "Pending",
+    "Venue": "Convention Center A"
+  },
+  {
+    "projectId": "7",
+    "ProjectName": "Skyline Industries stand at Digital Transformation Expo 2021",
+    "StartDate": "2021-01-11",
+    "EndDate": "2021-01-17",
+    "Status": "Pending",
+    "Venue": "Innovation Hub D"
+  },
+  {
+    "projectId": "8",
+    "ProjectName": "Quantum Solutions stand at Enterprise Conference 2024",
+    "StartDate": "2024-08-01",
+    "EndDate": "2024-08-08",
+    "Status": "Design Submitted",
+    "Venue": "Tech Park E"
+  },
+  {
+    "projectId": "9",
+    "ProjectName": "Innova Ltd stand at NextGen Exhibition 2021",
+    "StartDate": "2021-01-28",
+    "EndDate": "2021-02-02",
+    "Status": "Project Confirmed",
+    "Venue": "Innovation Hub D"
+  },
+  {
+    "projectId": "10",
+    "ProjectName": "NexGen Systems stand at NextGen Exhibition 2021",
+    "StartDate": "2021-04-11",
+    "EndDate": "2021-04-19",
+    "Status": "Admin Approved",
+    "Venue": "Trade Fair Arena C"
+  },
+  {
+    "projectId": "11",
+    "ProjectName": "Fusion Enterprises stand at Industry Showcase 2020",
+    "StartDate": "2020-09-14",
+    "EndDate": "2020-09-18",
+    "Status": "Pending",
+    "Venue": "Convention Center A"
+  },
+  {
+    "projectId": "12",
+    "ProjectName": "TechCorp stand at NextGen Exhibition 2023",
+    "StartDate": "2023-01-15",
+    "EndDate": "2023-01-24",
+    "Status": "Project Confirmed",
+    "Venue": "Expo Hall B"
+  },
+  {
+    "projectId": "13",
+    "ProjectName": "Innova Ltd stand at Innovation Fair 2020",
+    "StartDate": "2020-02-08",
+    "EndDate": "2020-02-17",
+    "Status": "Admin Approved",
+    "Venue": "Convention Center A"
+  },
+  {
+    "projectId": "14",
+    "ProjectName": "Skyline Industries stand at Global Expo 2020",
+    "StartDate": "2020-08-28",
+    "EndDate": "2020-09-05",
+    "Status": "Design Submitted",
+    "Venue": "Convention Center A"
+  },
+  {
+    "projectId": "15",
+    "ProjectName": "Alpha Dynamics stand at Industry Showcase 2022",
+    "StartDate": "2022-10-05",
+    "EndDate": "2022-10-13",
+    "Status": "Project Confirmed",
+    "Venue": "Expo Hall B"
+  },
+  {
+    "projectId": "16",
+    "ProjectName": "Skyline Industries stand at Digital Transformation Expo 2023",
+    "StartDate": "2023-02-09",
+    "EndDate": "2023-02-17",
+    "Status": "Design Submitted",
+    "Venue": "Expo Hall B"
+  },
+  {
+    "projectId": "17",
+    "ProjectName": "TechCorp stand at Digital Transformation Expo 2021",
+    "StartDate": "2021-04-27",
+    "EndDate": "2021-05-02",
+    "Status": "Project Confirmed",
+    "Venue": "Trade Fair Arena C"
+  },
+  {
+    "projectId": "18",
+    "ProjectName": "NexGen Systems stand at Future Trends Expo 2020",
+    "StartDate": "2020-03-21",
+    "EndDate": "2020-03-25",
+    "Status": "Design Submitted",
+    "Venue": "Tech Park E"
+  },
+  {
+    "projectId": "19",
+    "ProjectName": "Vertex Technologies stand at Innovation Fair 2021",
+    "StartDate": "2021-02-17",
+    "EndDate": "2021-02-21",
+    "Status": "Project Confirmed",
+    "Venue": "Trade Fair Arena C"
+  },
+  {
+    "projectId": "20",
+    "ProjectName": "Fusion Enterprises stand at Enterprise Conference 2025",
+    "StartDate": "2025-01-21",
+    "EndDate": "2025-01-29",
+    "Status": "Project Confirmed",
+    "Venue": "Innovation Hub D"
+  }
+]

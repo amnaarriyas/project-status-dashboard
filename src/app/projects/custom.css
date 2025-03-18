@@ -1,0 +1,115 @@
+/* filepath: c:\zedexel\zedexel-dashboard\src\app\projects\custom.css */
+.pagination .page-item .page-link {
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 5px;
+    border: none;
+  }
+  
+  .pagination .page-item.active .page-link {
+    background-color: #0B083E;
+    color: white;
+    border: none;
+  }
+  
+  .pagination .page-item .page-link:hover {
+    background-color: #5d5df0;
+    color: white;
+    border: none;
+  }
+
+  /* Rounded Table Header */
+.rounded-table-header {
+    background-color: #f8f9fa; /* Light gray */
+    border-radius: 10px;
+  }
+  
+  .rounded-table-header th {
+    padding: 15px;
+    font-weight: 600;
+    color: #6c757d;
+  }
+  
+  .rounded-table-header th:first-child {
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+  }
+  
+  .rounded-table-header th:last-child {
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+  }
+  
+  /* Table Row Styling */
+  .table tbody tr {
+    border-bottom: 1px solid #eee;
+  }
+  
+
+  .custom-badge {
+    border-radius: 24px;
+    padding: 0.5em 1em;
+    display: inline-block;
+  }
+  
+/* Pending */
+.status-pending {
+  background: #FFEAEA;
+  border: 1px solid rgba(238, 124, 124, 0.49);
+  color: #AD2A2A;
+}
+
+/* Design Submitted */
+.status-design-submitted {
+  background: #EAF5FF;
+  border: 1px solid rgba(124, 180, 238, 0.49);
+  color: #2A6AAD;
+}
+
+/* Admin Approved */
+.status-admin-approved {
+  background: #FFF6EA;
+  border: 1px solid rgba(238, 174, 124, 0.49);
+  color: #AD6A2A;
+}
+
+/* Project Confirmed */
+.status-project-confirmed {
+  background: #EAF7EA;
+  border: 1px solid rgba(124, 238, 144, 0.49);
+  color: #2AAD4A;
+}
+
+
+  /* Rounded Search Bar */
+.rounded-search-bar {
+    border-radius: 50px;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    background-color: white;
+  }
+  
+  /* Search Icon Styling */
+  .search-icon {
+    color: #6c757d;
+  }
+  
+  /* Input Field Styling */
+  .form-control {
+    border: none;
+    box-shadow: none;
+    font-size: 16px;
+    color: #6c757d;
+  }
+  
+  .form-control:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  
+  
